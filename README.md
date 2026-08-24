@@ -1,9 +1,9 @@
 ## What is Flexer2d:
 
-Flexer2d is a custom framework for LOVE2D and pygame, that creates an entire new way of coding with game objects, pretty similar to [HaxeFlixel](https://github.com/HaxeFlixel/flixel).\
-This repository only works as an archive of the work I did and wont be updated\
-These\
-- LOVE2D: June - August 2025\
+Flexer2d is a custom framework for LOVE2D and pygame, that creates an entire new way of coding with game objects, pretty similar to [HaxeFlixel](https://github.com/HaxeFlixel/flixel).
+This repository only works as an archive of the work I did and wont be updated
+These are the dates where each version were done
+- LOVE2D: June - August 2025
 - pygame: May 2026
 
 ## Installation / How to use:
